@@ -1,4 +1,4 @@
-# 005 - Loops
+# 5 - Loops
 ## Task
 Read an integer `N`. For all non-negative integers `i < N`, print **i<sup>2</sup>**. See the sample for details.
 
