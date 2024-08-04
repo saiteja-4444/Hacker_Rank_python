@@ -1,4 +1,4 @@
-# 003 - Arithmetic Operators
+# 3 - Arithmetic Operators
 ## Task
 
 Read two integers from STDIN and print three lines where:
