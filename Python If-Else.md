@@ -1,4 +1,4 @@
-# 002 - Python If-Else
+# 2 - Python If-Else
 ## Problem
 
 Given an integer, `n`, perform the following conditional actions:
